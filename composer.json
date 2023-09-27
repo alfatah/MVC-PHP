@@ -1,0 +1,33 @@
+{
+    "name": "belajar/mvc-php",
+    "description": "Belajar PHP MVC",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Belajar\\MvcPhp\\": "scr/"
+        }
+    },
+    "authors": [
+        {
+            "name": "project"
+        }
+    ],
+    "require": {
+        "php": ">=8"
+    },
+    "require-dev": {
+        "phpunit/phpunit" : "9.5.8"
+    },
+    "autoload": {
+        "psr-4": {
+            "Belajar\\MvcPhp\\" : "app"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Belajar\\MvcPhp\\" : "test"
+        }
+
+    }
+
+}

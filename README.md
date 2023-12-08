@@ -1,7 +1,7 @@
 # Latihan MVC PHP
 MVC PHP
  <br>
- Link Video Tutorial : [Video](https://www.youtube.com/watch?v=hTd1AGxcX0g)
+ Link Video Tutorial : [Video](https://www.youtube.com/playlist?list=PLFIM0718LjIVEh_d-h5wAjsdv2W4SAtkx)
  <br>
 
 - Routing

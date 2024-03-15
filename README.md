@@ -9,6 +9,7 @@ MVC PHP
 http://localhost/Latihan/MVC-PHP/public/index.php?url=home/index
 ```
 
+___
 MVC (Model-View-Controller) adalah sebuah pola desain arsitektural yang digunakan dalam pengembangan perangkat lunak. Ini memisahkan elemen aplikasi ke dalam tiga komponen utama: Model, View, dan Controller. Penerapan pola MVC sangat umum dalam pengembangan web, termasuk dalam pengembangan dengan PHP.
 
 Berikut adalah penjelasan singkat tentang setiap komponen MVC dalam konteks PHP:
